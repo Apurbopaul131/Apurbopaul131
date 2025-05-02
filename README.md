@@ -5,7 +5,7 @@
 🔭 I’m currently working in Programming hero<br><br>🌱 I’m currently learning NextJs<br><br>🤝 I’m looking for help with Open source project<br><br>💬 Ask me about react,nextJs<br><br>📫  Reach me on apurbopaul131@gmail.com<br><br>⚡ Fun fact I enjoy solving bugs I caused myself (character development)
 
 
-## 🌐 Socials:
+## 🌐 Where you find me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ratr.tr.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apurbopaul131gmail) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apurbo-paul-633884191) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apurbopaul131@gmail.com) 
 
 # 💻 Familiar Technologies:
