@@ -1,6 +1,5 @@
-<img src="https://i.ibb.co.com/m59VvsJq/Make-your-README-2.png" alt="Mokkapps GitHub README header image">
-<h1 align="center">Hi 👋, I'm Apurbo</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<img src="https://i.ibb.co.com/m59VvsJq/Make-your-README-2.png" alt="Mokkapps GitHub README header image" align="center">
+
 
 # 💫 About Me:
 🔭 I’m currently working in Programming hero<br><br>🌱 I’m currently learning NextJs<br><br>🤝 I’m looking for help with Open source project<br><br>💬 Ask me about react,nextJs<br><br>📫  Reach me on apurbopaul131@gmail.com<br><br>⚡ Fun fact I enjoy solving bugs I caused myself (character development)
