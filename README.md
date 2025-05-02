@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/m59VvsJq/Make-your-README-2.png" alt="Mokkapps GitHub README header image" align="center">
+<img src="https://i.ibb.co.com/m59VvsJq/Make-your-README-2.png" alt="Mokkapps GitHub README header image" align="center" width="100%">
 
 
 # 💫 About Me:
