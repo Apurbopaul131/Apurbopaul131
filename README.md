@@ -2,7 +2,7 @@
 
 
 ## 💫 Current Overview:
-🔭 I’m currently working in Programming hero<br><br>🌱 I’m currently learning NextJs<br><br>🤝 I’m looking for help with Open source project<br><br>💬 Ask me about react,nextJs<br><br>📫  Reach me on apurbopaul131@gmail.com<br><br>⚡ Fun fact I enjoy solving bugs I caused myself (character development)
+🔭 I’m currently working in Programming hero<br><br>🌱 I’m currently learning NextJs<br><br>🤝 I’m looking for help with Open source project<br><br>💬 Ask me about react,nextJs<br><br>⚡ Fun fact I enjoy solving bugs I caused myself (character development)
 
 
 ## 🌐 Where you find me:
